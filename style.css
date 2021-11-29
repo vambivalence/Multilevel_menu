@@ -2,7 +2,6 @@
     box-sizing: border-box;
 }
 
-
 .item, .item-two {
     display: inline-block;
     vertical-align: top;
